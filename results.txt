@@ -1,7 +1,11 @@
-Test accuracy is noted
+Train Accuracy lstm avg pool: 0.996675
+Validation Accuracy lstm avg pool: 0.8672
+Test Accuracy lstm avg pool: 0.8828
 
-LSTM AVG
+Train Accuracy lstm attention: 0.99755
+Validation Accuracy lstm attention: 0.8662
+Test Accuracy lstm attention: 0.871
 
-LSTM with attention:
-
-Encoder:
+Train Accuracy encoder mechanism: 0.9012
+Validation Accuracy encoder mechanism: 0.8456
+Test Accuracy encoder mechanism: 0.8534
