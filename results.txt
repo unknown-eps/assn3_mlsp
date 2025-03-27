@@ -1,0 +1,7 @@
+Test accuracy is noted
+
+LSTM AVG
+
+LSTM with attention:
+
+Encoder:
