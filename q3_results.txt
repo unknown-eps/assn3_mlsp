@@ -1,35 +1,39 @@
 Part a:
-Train Accuracy with SGD: 0.1
-Validation Accuracy with SGD: 0.1
-Test Accuracy with SGD: 0.1
+Train Accuracy with SGD: 0.7958333333333333
+Validation Accuracy with SGD: 0.65
+Test Accuracy with SGD: 0.7
 
-Train Accuracy with SGD with momentum: 0.1
-Validation Accuracy with SGD with momentum: 0.1
-Test Accuracy with SGD with momentum: 0.1
+Train Accuracy with SGD with momentum: 0.8333333333333334
+Validation Accuracy with SGD with momentum: 0.65
+Test Accuracy with SGD with momentum: 0.625
 
-Train Accuracy with RMSprop: 0.1
-Validation Accuracy with RMSprop: 0.1
-Test Accuracy with RMSprop: 0.1
+
+Train Accuracy with RMSprop: 0.9958333333333333
+Validation Accuracy with RMSprop: 0.525
+Test Accuracy with RMSprop: 0.45
+
 
 Train Accuracy with Adam: 1.0
-Validation Accuracy with Adam: 0.2625
-Test Accuracy with Adam: 0.3
+Validation Accuracy with Adam: 0.6125
+Test Accuracy with Adam: 0.5125
+
+
 
 Part b:
 
 Train Accuracy with No Norm: 1.0
-Validation Accuracy with No Norm: 0.2625
-Test Accuracy with No Norm: 0.3
+Validation Accuracy with No Norm: 0.6125
+Test Accuracy with No Norm: 0.5125
 
-Train Accuracy with Layer Norm: 0.9291666666666667
-Validation Accuracy with Layer Norm: 0.5375
-Test Accuracy with Layer Norm: 0.6
+Train Accuracy with Layer Norm: 1.0
+Validation Accuracy with Layer Norm: 0.7125
+Test Accuracy with Layer Norm: 0.7125
 
-Train Accuracy with Batch Norm: 0.9666666666666667
-Validation Accuracy with Batch Norm: 0.6125
-Test Accuracy with Batch Norm: 0.6125
+Train Accuracy with Batch Norm: 1.0
+Validation Accuracy with Batch Norm: 0.775
+Test Accuracy with Batch Norm: 0.7125
 
 Part c:
-Test Accuracy first model: 0.1
-Test Accuracy second model: 0.1125
-Test Accuracy third model: 0.6
+Test Accuracy first model: 0.7
+Test Accuracy second model: 0.25
+Test Accuracy third model: 0.7125
