@@ -37,3 +37,6 @@ Part c:
 Test Accuracy first model: 0.7
 Test Accuracy second model: 0.25
 Test Accuracy third model: 0.7125
+
+Test Accuracy simple avg = 0.73
+Test Accuracy optimal ensemble = 0.75
